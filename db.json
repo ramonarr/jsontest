@@ -32,5 +32,39 @@
     "company": {
       "name": "Deckow-Crist"
     }
+  },
+    {
+    "id": 1,
+    "name": "Leanne Jean",
+    "username": "Brety",
+    "email": "Sincere@ana.sean",
+    "address": {
+      "street": "Moon Light",
+      "suite": "Apt. 56",
+      "city": "Swanbough",
+      "zipcode": "92911-0012"
+    },
+    "phone": "+35274689102",
+    "website": "lalala.org",
+    "company": {
+      "name": "CompanyName1"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Hwell",
+    "username": "Anette",
+    "email": "Anna@lissa.eu",
+    "address": {
+      "street": "Victor Paul",
+      "suite": "Suite 87",
+      "city": "Wellburgh",
+      "zipcode": "90286-7871"
+    },
+    "phone": "+45784689102",
+    "website": "anastasia.net",
+    "company": {
+      "name": "Deckow-Crist"
+    }
   }
   ]
